@@ -1,5 +1,6 @@
-🎮 Gaming Platform JDBC Project
-📘 Project Description
+🎮  GAMING PLATFORM
+
+📘 PROJECT DESCRIPTION
 This project is a gaming platform backend system built using Java + JDBC that connects to a MySQL database.
 It allows you to manage users, games, achievements, reviews, purchases, leaderboards, and more — simulating core features of a real gaming ecosystem.
 
